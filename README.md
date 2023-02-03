@@ -32,3 +32,15 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahrousgama1&theme=dark" alt="mahrousgama1" /></p>
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahrousgama1&theme=2077)
+
+Markdown Usage
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mahrousgama1&theme=2077)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mahrousgama1&theme=2077)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mahrousgama1&theme=2077)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mahrousgama1&theme=2077&utcOffset=8)
+
+
