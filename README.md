@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahrous Gamal</h1>
-<h3 align="center">Front-end Developer</h3>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Front-End+Developer" alt="Typing SVG" /></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahrousgama1&label=Profile%20views&color=0e75b6&style=plastic" alt="mahrousgama1" /> </p>
 
