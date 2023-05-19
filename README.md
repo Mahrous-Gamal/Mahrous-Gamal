@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **mahrousgamal2001@gmail.com**
 
-- ⚡**Fun fact Okay, I'm a little serious**
+- ⚡ **Fun fact Okay, I'm a little serious**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
