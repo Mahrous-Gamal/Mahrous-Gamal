@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Node.js**
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://mahrousgama1.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://mahrous-gamal.github.io/Portfolio/)
 
 - 💬 Ask me about **Ask me about HTML , CSS , bootstrap , JavaScript, JSON, SASS, C# , C++ and Python**
 
