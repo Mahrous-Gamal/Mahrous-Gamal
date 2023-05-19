@@ -29,16 +29,16 @@
 
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahrousgama1&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahrous-gamal&theme=2077)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mahrousgama1&theme=2077)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mahrousgama1&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mahrous-gamal&theme=2077)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mahrous-gamal&theme=2077)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mahrousgama1&theme=2077)![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mahrousgama1&theme=2077&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mahrous-gamal&theme=2077)![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mahrous-gamal&theme=2077&utcOffset=8)
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahrousgama1&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="mahrousgama1" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahrous-gamal&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="mahrous-gamal" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahrousgama1&show_icons=true&theme=tokyonight&locale=en" alt="mahrousgama1" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahrous-gamal&show_icons=true&theme=tokyonight&locale=en" alt="mahrous-gamal" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahrousgama1&theme=dark" alt="mahrousgama1" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahrous-gamal&theme=dark" alt="mahrous-gamal" /></p>
 
