@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mahrous Gamal</h1>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Front-End+Developer" alt="Typing SVG" /></a>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahrous-gamal&label=Profile%20views&color=0e75b6&style=plastic" alt="mahrousgama1" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahrous-gamal&label=Profile%20views&color=0e75b6&style=plastic" alt="mahrous-gamal" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahrousgama1" alt="mahrousgama1" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahrous-gamal" alt="mahrous-gamal" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/mahrousgama1" target="blank"><img src="https://img.shields.io/twitter/follow/mahrousgama1?logo=twitter&style=for-the-badge" alt="mahrousgama1" /></a> </p>
 
