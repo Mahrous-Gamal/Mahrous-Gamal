@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://mahrousgama1.github.io/Portfolio/)
 
-- 💬 Ask me about **Ask me about HTML , CSS , bootstrap , JavaScript, JSON, Ajax, SASS, PUG.js, Gulp.js, C# , C++ and Python**
+- 💬 Ask me about **Ask me about HTML , CSS , bootstrap , JavaScript, JSON, SASS, C# , C++ and Python**
 
 - 📫 How to reach me **mahrousgamal2001@gmail.com**
 
