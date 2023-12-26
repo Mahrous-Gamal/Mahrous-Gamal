@@ -18,7 +18,7 @@
 
 - ⚡ **Fun fact Okay, I'm a little serious**
 
-## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px" height="50px"> For More Information, Please Check Out or Connect Me Via
+## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width=50px> For More Information, Please Check Out or Connect Me Via
 
 <p align="center">
   <a href="mailto:mahrousgamal2001@gmail.com" >
