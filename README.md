@@ -12,7 +12,7 @@ I am a Front-end software engineer. I love programming, writing, speaking and tr
 As a software engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
 - 🔭 I’m currently working on **Node.js**
 
-- 👨‍💻 All of my projects are available at [Portfolio/](https://mahrousgamal.vercel.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://mahrousgamal.vercel.app/)
 
 - 💬 Ask me about **Ask me about HTML , CSS , bootstrap , JavaScript, JSON, Ajax, SASS, PUG.js, Gulp.js, C# , C++ and Python**
 
