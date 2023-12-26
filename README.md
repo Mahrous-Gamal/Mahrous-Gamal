@@ -1,5 +1,7 @@
 <p align="center"><picture align="center"><img align="center" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture></p>
 <h1 align="center">Hi 👋, I'm Mahrous Gamal</h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Front-End+Developer" alt="Typing SVG" /></a>
+
 <p align="left"> <a href="https://twitter.com/mahrousgama1" target="blank"><img src="https://img.shields.io/twitter/follow/mahrousgama1?logo=twitter&style=for-the-badge" alt="mahrousgama1" /></a> </p>
 
 - 🔭 I’m currently working on **Node.js**
