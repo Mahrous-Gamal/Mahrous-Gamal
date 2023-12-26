@@ -61,7 +61,7 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahrous-gamal&theme=dark" alt="mahrous-gamal" /></p>
 
-## 🙋‍♀️ Let's Connect
+## 🙋‍♂️ Let's Connect
 <p align="center">
   <a href="https://mahrousgamal.vercel.app/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
 	<a href="mailto:mahrousgamal2001@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
