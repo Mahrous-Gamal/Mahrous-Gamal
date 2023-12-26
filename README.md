@@ -18,12 +18,6 @@
 
 - ⚡ **Fun fact Okay, I'm a little serious**
 
-## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px" height="50px">Connect with me:
-<p align="left">
-<a href="https://twitter.com/mahrousgama1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mahrousgama1" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/mahrous-gamal-044693218/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahrous gamal" height="30" width="40" /></a>
-</p>
-
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px" height="50px"> For More Information, Please Check Out or Connect Me Via
 
 <p align="center">
