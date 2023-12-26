@@ -2,8 +2,14 @@
 <h1 align="center">Hi 👋, I'm Mahrous Gamal</h1>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Front-End+Developer" alt="Typing SVG" /></a>
 
-<p align="left"> <a href="https://twitter.com/mahrousgama1" target="blank"><img src="https://img.shields.io/twitter/follow/mahrousgama1?logo=twitter&style=for-the-badge" alt="mahrousgama1" /></a> </p>
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mahrous-gamal-044693218/)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://mahrousgamal.vercel.app/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/MahrousGama1)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/mahrous_gama1/)
 
+I am a Front-end software engineer. I love programming, writing, speaking and traveling.
+
+As a software engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
 - 🔭 I’m currently working on **Node.js**
 
 - 👨‍💻 All of my projects are available at [Portfolio/](https://mahrousgamal.vercel.app/)
