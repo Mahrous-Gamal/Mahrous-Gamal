@@ -8,15 +8,12 @@
 
 <p align="left"> <a href="https://twitter.com/mahrousgama1" target="blank"><img src="https://img.shields.io/twitter/follow/mahrousgama1?logo=twitter&style=for-the-badge" alt="mahrousgama1" /></a> </p>
 
-- 🔭 I’m currently working on **Node.js**
-
-- 👨‍💻 All of my projects are available at [My Portfolio](https://mahrousgamal.vercel.app/)
-
-- 💬 Ask me about **Ask me about HTML , CSS , bootstrap , JavaScript, JSON, SASS, C# , C++ and Python**
-
-- 📫 How to reach me **mahrousgamal2001@gmail.com**
-
-- ⚡ **Fun fact Okay, I'm a little serious**
+- <img src="./assets/developer.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently working on something cool;
+- <img src="./assets/lightning.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently learning React.js;
+- <img src="./assets/message.gif?raw=true" width="21" />&nbsp;&nbsp; Ask me about anything, I am happy to help;
+- <img src="./assets/laptop.gif?raw=true" width="21" />&nbsp;&nbsp; I publish my project at [My Portfolio](https://mahrousgamal.vercel.app/);
+- <img src="./assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; How to reach me: **mahrousgamal2001@gmail.com**;
+- <img src="./assets/doc.gif?raw=true" width="21" />&nbsp;&nbsp; [Resume](https://drive.google.com/file/d/1NO9y0Bn7ZAGHJ2X7XpowVh6wvFzquEoB/view).
 
 ## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width=50px> For More Information, Please Check Out or Connect Me Via
 
