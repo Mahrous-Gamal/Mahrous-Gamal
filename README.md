@@ -14,7 +14,7 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://mahrousgamal.vercel.app/)
 
-- 💬 Ask me about **Ask me about HTML , CSS , bootstrap , JavaScript, JSON, Ajax, SASS, PUG.js, Gulp.js, C# , C++ and Python**
+- 💬 Ask me about **Ask me about HTML , CSS , bootstrap , JavaScript, JSON, Ajax, SASS, C# , C++ and Python**
 
 - 📫 How to reach me **mahrousgamal2001@gmail.com**
 
