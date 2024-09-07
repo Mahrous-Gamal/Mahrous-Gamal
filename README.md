@@ -21,7 +21,7 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 ## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width=50px> For More Information, Please Check Out or Connect Me Via
 
 <p align="center">
-  <a href="mailto:mahrousgamal2001@gmail.com" >
+  <a href="mailto:mahrousgamal.dev@gmail.com" >
     <img align="center" alt="Mahrous Gamal | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
   </a> &nbsp;&nbsp;
   
