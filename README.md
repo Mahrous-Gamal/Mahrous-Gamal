@@ -7,7 +7,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/MahrousGama1)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/mahrous_gama1/)
 
-I am a Front-end software engineer. I love programming, writing, speaking and traveling.
+I am Software Engineer | Full-Stack Developer Node.js. I love programming, writing, speaking and traveling.
 
 As a software engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
 - 🔭 I’m currently working on **Node.js**
