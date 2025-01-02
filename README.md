@@ -7,12 +7,11 @@
 
 I am Software Engineer | Full-Stack Developer Node.js. I love programming, writing, speaking and traveling.
 
-As a software engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
-- 🔭 I’m currently working on **Node.js**
-
+As a software engineer, I enjoy using my obsessive attention to detail.
+- 🔭 Always learning new things
 - 👨‍💻 All of my projects are available at [Portfolio](https://mahrousgamal.vercel.app/)
 
-- 💬 Ask me about **Ask me about HTML , CSS , bootstrap , JavaScript, JSON, Ajax, SASS, C# , C++ and Python**
+- 💬 Ask me about **Ask me about HTML , CSS , bootstrap , JavaScript , React.js and Node.js**
 
 - 📫 How to reach me **mahrousgamal.dev@gmail.com**
 
