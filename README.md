@@ -5,7 +5,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mahrous-gamal-044693218/)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://mahrousgamal.vercel.app/)
 
-I am Software Engineer | Full-Stack Developer Node.js. I love programming, writing, speaking and traveling.
+I am Software Engineer | Full-Stack Developer Node.js.
 
 As a software engineer, I enjoy using my obsessive attention to detail.
 - 🔭 Always learning new things
