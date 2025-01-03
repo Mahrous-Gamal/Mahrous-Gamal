@@ -8,10 +8,10 @@
 I am Software Engineer | Full-Stack Developer Node.js.
 
 As a software engineer, I enjoy using my obsessive attention to detail.
-- 🔭 Always learning new things
 - 👨‍💻 All of my projects are available at [Portfolio](https://mahrousgamal.vercel.app/)
 
 - 💬 Ask me about **Ask me about HTML , CSS , bootstrap , JavaScript , React.js and Node.js**
+- 🔭 Always learning new things
 
 - 📫 How to reach me **mahrousgamal.dev@gmail.com**
 
