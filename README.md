@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Mahrous Gamal</h1>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Front-End+Developer" alt="Typing SVG" /></a>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mahrous-gamal-044693218/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mahrous-gamal/)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://mahrousgamal.vercel.app/)
 
 I am Software Engineer | Full-Stack Developer Node.js.
