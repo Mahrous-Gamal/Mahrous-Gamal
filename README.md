@@ -22,7 +22,7 @@ As a software engineer, I enjoy using my obsessive attention to detail.
     <img align="center" alt="Mahrous Gamal | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
   </a> &nbsp;&nbsp;
   
-  <a href="https://www.linkedin.com/in/mahrous-gamal-044693218/" target="_blank">
+  <a href="https://www.linkedin.com/in/mahrous-gamal/" target="_blank">
     <img align="center" alt="Mahrous Gamal | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
   </a> &nbsp;&nbsp;
   
