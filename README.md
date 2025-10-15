@@ -5,12 +5,12 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mahrous-gamal/)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://mahrousgamal.vercel.app/)
 
-I am Software Engineer | Full-Stack Developer Node.js.
+I am a software engineer and full-stack developer specializing in .NET.
 
 As a software engineer, I enjoy using my obsessive attention to detail.
 - 👨‍💻 All of my projects are available at [Portfolio](https://mahrousgamal.vercel.app/)
 
-- 💬 Ask me about **Ask me about HTML , CSS , bootstrap , JavaScript , React.js and Node.js**
+- 💬 Ask me about **HTML, CSS, Bootstrap, Tailwind CSS, JavaScript, TypeScript, and Angular**
 - 🔭 Always learning new things
 
 - 📫 How to reach me **mahrousgamal.dev@gmail.com**
