@@ -59,15 +59,17 @@ As a software engineer, I enjoy using my obsessive attention to detail.
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahrous-gamal&show_icons=true&theme=tokyonight&locale=en" alt="mahrous-gamal" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahrous-gamal&theme=dark" alt="mahrous-gamal" /></p>
 
 ## 🙋‍♂️ Let's Connect
 <p align="center">
 	<a href="mailto:mahrousgamal.dev@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
-	<a href="https://github.com/Mahrous-Gamal"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/mahrous-gamal-044693218/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://www.facebook.com/profile.php?id=100041500743911"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
 	<a href="https://www.instagram.com/mahrous_gama1/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+	<a href="https://wa.me/201001449752" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/whatsapp.png" alt="WhatsApp"/></a>
+	<a href="https://t.me/+201001449752" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/telegram-app.png" alt="Telegram"/></a>
+
+
 	
 </p>
 
