@@ -34,6 +34,10 @@ As a software engineer, I enjoy using my obsessive attention to detail.
   <img align="center" alt="Mahrous Gamal | WhatsApp" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" />
 </a> &nbsp;&nbsp;
 
+<a href="https://t.me/+201001449752" target="_blank">
+  <img align="center" alt="Mahrous Gamal | Telegram" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" />
+</a> &nbsp;&nbsp;
+
 <p>
 
 <div align="center">
