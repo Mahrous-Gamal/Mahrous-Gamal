@@ -26,9 +26,6 @@ As a software engineer, I enjoy using my obsessive attention to detail.
     <img align="center" alt="Mahrous Gamal | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
   </a> &nbsp;&nbsp;
   
-  <a href="https://github.com/Mahrous-Gamal" target="_blank">
-    <img align="center" alt="Mahrous Gamal | GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
-  </a> &nbsp;&nbsp;
 
   <a href="https://wa.me/201001449752" target="_blank">
   <img align="center" alt="Mahrous Gamal | WhatsApp" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" />
