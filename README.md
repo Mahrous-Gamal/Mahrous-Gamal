@@ -56,10 +56,6 @@ As a software engineer, I enjoy using my obsessive attention to detail.
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mahrous-gamal&theme=2077)![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mahrous-gamal&theme=2077&utcOffset=8)
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahrous-gamal&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="mahrous-gamal" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahrous-gamal&show_icons=true&theme=tokyonight&locale=en" alt="mahrous-gamal" /></p>
-
 
 ## 🙋‍♂️ Let's Connect
 <p align="center">
